@@ -1,0 +1,11 @@
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\bin\Debug\LangtonAnt_Simulation.exe.config
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\bin\Debug\LangtonAnt_Simulation.exe
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\bin\Debug\LangtonAnt_Simulation.pdb
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.csproj.AssemblyReference.cache
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.Form1.resources
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.Properties.Resources.resources
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.csproj.GenerateResource.cache
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.exe
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.pdb
+C:\Users\kubaj\source\repos\LangtonAnt_Simulation\LangtonAnt_Simulation\obj\Debug\LangtonAnt_Simulation.exe.config
